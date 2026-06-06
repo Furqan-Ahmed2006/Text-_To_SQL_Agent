@@ -250,12 +250,9 @@ All errors are displayed to the user in a user-friendly format.
 
 ## 📱 LinkedIn Demo
 
-**[View Project Demo on LinkedIn](YOUR_LINKEDIN_POST_URL_HERE)**
+**[View Project Demo on LinkedIn](https://www.linkedin.com/posts/furqanahmedcs_generativeai-texttosql-langchain-activity-7469019998540402688-O3gn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmuzagBnuLJ4iq3C1fwKE0eyWLikcGY32w)**
 
-> Click the link above to see a walkthrough of ChatWithDB in action, including:
-> - Real-time query generation
-> - Results visualization
-> - Security features demonstration
+
 
 ---
 
@@ -307,7 +304,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Furqan Ahmed**
 - GitHub: [@Furqan-Ahmed2006](https://github.com/Furqan-Ahmed2006)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: www.linkedin.com/in/furqanahmedcs
 
 ---
 
@@ -319,11 +316,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Qwen Team**: For the excellent Qwen 2.5 Coder model
 
 ---
-
-## 📞 Support
-
-For questions or issues, please open a GitHub issue or contact the maintainer directly.
-
----
-
-**⭐ If you find this project helpful, please consider giving it a star!**
